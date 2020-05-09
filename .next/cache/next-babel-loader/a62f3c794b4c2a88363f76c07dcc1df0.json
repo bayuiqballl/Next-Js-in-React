@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { withRouter } from \"next/router\";","map":{"version":3,"sources":["/media/cybrog/Local Disk/impact-byte/nextjs/pages/single.js"],"names":["withRouter"],"mappings":"AAAA,SAASA,UAAT,QAA2B,aAA3B","sourcesContent":["import { withRouter } from \"next/router\";\n"]},"metadata":{},"sourceType":"module"}

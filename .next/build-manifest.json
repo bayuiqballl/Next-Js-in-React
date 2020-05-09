@@ -1,0 +1,52 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/wuPv6LSkLfKg1Vfd-FSBu/_buildManifest.js",
+    "static/wuPv6LSkLfKg1Vfd-FSBu/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/chunks/b4fea5b9476e994afc43dc76034272b8666bda23.1fecbbfe0406ef47789e.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-673092cd442ac8fa4021.js"
+    ],
+    "/blog": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/chunks/b4fea5b9476e994afc43dc76034272b8666bda23.1fecbbfe0406ef47789e.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/chunks/b4fea5b9476e994afc43dc76034272b8666bda23.1fecbbfe0406ef47789e.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ],
+    "/single": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.e84fa698c7ee940652bd.js",
+      "static/chunks/commons.c5a2f9d2693bf92041ea.js",
+      "static/chunks/b4fea5b9476e994afc43dc76034272b8666bda23.1fecbbfe0406ef47789e.js",
+      "static/runtime/main-43a9e4282e28aa9af00d.js"
+    ]
+  }
+}
